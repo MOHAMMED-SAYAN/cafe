@@ -1,6 +1,11 @@
-.qwe {
-    background: url(https://t4.ftcdn.net/jpg/00/78/09/77/360_F_78097722_DS0SKdmNCZLfefL1CP63kSbMzjjjv9Xy.jpg);
-
+.lastbgc {
+    background-image: url(https://www.crazyvegankitchen.com/wp-content/uploads/2023/06/mango-juice-recipe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
 }
 
 .items {
@@ -9,3 +14,19 @@
     width: 90px;
 }
 
+.last {
+    margin-right: 300px;
+}
+
+.text1 {
+    margin-top: -80px;
+    margin-left: 300px;
+
+}
+.qwe{
+    background-image: url(https://media.istockphoto.com/id/1288664808/photo/fresh-fruits-and-vegetables-frame-on-white-background-copy-space.jpg?s=612x612&w=0&k=20&c=FXvl0KNXxtVPfmZvjcvyrJhsMGP0JeqMAgGiX2V8W7c=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    
+}
