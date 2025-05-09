@@ -6,6 +6,7 @@
     width: 50%;
     height: 100%;
     border-radius: 10px;
+    
 }
 
 .items {
@@ -24,7 +25,7 @@
 
 }
 .qwe{
-    background-image: url(https://media.istockphoto.com/id/1288664808/photo/fresh-fruits-and-vegetables-frame-on-white-background-copy-space.jpg?s=612x612&w=0&k=20&c=FXvl0KNXxtVPfmZvjcvyrJhsMGP0JeqMAgGiX2V8W7c=);
+    background-image: url(https://media.istockphoto.com/id/1009738476/photo/strawberry-fruits-on-the-right-side-on-wooden-background-with-copy-space-view-from-above.jpg?s=170667a&w=0&k=20&c=AEM-vqQOzK7GmW7_5QCjwteKUKU9lNtjJvtIFCp733w=);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
